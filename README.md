@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/tanmaysinha00"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tanmaysinha00/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/tanmaysinha69/"><img src="https://img.icons8.com/bubbles/50/000000/kaggle.png" alt="Kaggle/></a>
+  <a href="https://www.kaggle.com/tanmaysinha69/"><img src="https://img.icons8.com/kaggle.png" alt="Kaggle/></a>
 </p>
 
